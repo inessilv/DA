@@ -1,0 +1,3 @@
+/home/inessilva_132/CLionProjects/DA_T2_G48/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/inessilva_132/CLionProjects/DA_T2_G48/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/inessilva_132/CLionProjects/DA_T2_G48/cmake-build-debug/CMakeFiles/TP_2.dir
